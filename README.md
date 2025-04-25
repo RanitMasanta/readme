@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/RanitMasanta/RanitMasanta/main/data-analytics-banner.png" alt="Data Analytics Banner">
+    <img width="200" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Ranit Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Ranit Masanta</h1>
 <h3 align="center">Data Analyst | SQL Expert | Visualization Specialist</h3>
