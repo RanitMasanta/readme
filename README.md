@@ -24,21 +24,19 @@
 I transform raw data into actionable insights that drive business decisions. With expertise in SQL, Python, and data visualization tools, I bridge the gap between data and decision-makers.
 
 - 🔭 Currently working on **predictive analytics projects**
-- 🌱 Learning **advanced Tableau techniques and Big Data technologies**
+- 🌱 Learning **advanced Power BI techniques and Big Data technologies**
 - 👯 Looking to collaborate on **data cleaning/visualization projects**
 - 💬 Ask me about **SQL optimization or dashboard design**
 - ⚡ Fun fact: I can spot data anomalies just by looking at distributions!
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **masantaranit@gmail.com**
 
 ## 🔗 Connect With Me
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="28px"/>][linkedin]
 [<img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle" width="28px"/>][kaggle]
-[<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="28px"/>][tableau]
 
-[linkedin]: https://linkedin.com/in/yourprofile
+[linkedin]: www.linkedin.com/in/ranit-masanta
 [kaggle]: https://kaggle.com/yourprofile
-[tableau]: https://public.tableau.com/app/profile/yourprofile
 
 ## 🛠️ Analytics Stack
 
