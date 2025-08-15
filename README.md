@@ -1,1 +1,1 @@
-
+Heart Disease Detection through Machine Learning refers to the method in which we train a computer program on old medical records (age, blood pressure, cholesterol, heart rate etc.) to memorize the pattern that would help us to know whether an individual might have heart disease or not. After learning, the model will be able to take the medical information of a new individual and determine whether they are in need of risk or not. This assists in early diagnosis, improved decision-making, and assists the doctors in treatment planning.
